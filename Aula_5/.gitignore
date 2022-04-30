@@ -130,3 +130,4 @@ dmypy.json
 *.pyc
 .idea
 __pycache__
+*.iml
